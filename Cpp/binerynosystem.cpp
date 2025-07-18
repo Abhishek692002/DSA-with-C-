@@ -31,7 +31,7 @@ int binToDecimal(int binNum)
 int main()
 {
     int decNum = 6;
-    int binNum = 101;
+    int binNum = 1101;
     // cout << "The Binary of " << decNum << " is " << decToBinary(decNum);
     // for (int i = 0; i <= 10; i++)
     // {
